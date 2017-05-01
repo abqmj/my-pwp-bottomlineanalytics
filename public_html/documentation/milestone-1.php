@@ -20,6 +20,7 @@
 		<p><strong>NAME: </strong>Bob Dobalina
 		<br>
 			<strong>Company: </strong> Bank of America
+			<br>
 		<strong>AGE: </strong>38</p>
 		<p><strong>Profession: </strong> Bob is regional manager for Bank of America north east heights of ABQ,NM</p>
 		<p><strong>Technology: </strong> Windows Vista user when at work because corporate is afraid to retrain the older managers, Iphone 7 with verizon, and uses a dell gaming laptop at home with 1050ti vc i5 proc. </p>
