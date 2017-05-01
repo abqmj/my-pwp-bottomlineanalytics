@@ -19,18 +19,19 @@
 		<h3>Persona</h3>
 		<p><strong>NAME: </strong>Bob Dobalina
 		<br>
+			<strong>Company: </strong> Bank of America
 		<strong>AGE: </strong>38</p>
-		<p><strong>Profession: </strong> Restaurant General Manager for over 20 years. Also small business owner making homemade salsa, which he sells at local farmers markets. Looking to invest his savings into his sports bar with a unique menu built around his homemade salsa.</p>
+		<p><strong>Profession: </strong> Bob is regional manager for Bank of America north east heights of ABQ,NM</p>
 		<p><strong>Technology: </strong> Windows Vista user when at work because corporate is afraid to retrain the older managers, Iphone 7 with verizon, and uses a dell gaming laptop at home with 1050ti vc i5 proc. </p>
-		<p><strong>Attitudes and Behaviors: </strong> Extremely friendly and always puts the customer first which is why he's lasted 20 years in the service industry. Being a general manager means he never really has a day off, but when he is off of work he spends that time cooking his homemade salsa.</p>
-		<p><strong>Frustrations and Needs: </strong>Bob has worked for a corporate chain for over 20 years and is ready to use everything he has learned in that time to grow his own sports bar. He needs a loan of 350k to purchase kitchen equipment, 6 months of estimated payroll until the business grows enough to cover, and at least 2 years of rent for his location.</p>
-		<p><strong>Goals: </strong>Bobs number one goal for his sports bar is to not end up on Bar Rescue because John Tahfer is a dick.</p>
-		<p><strong>User Story: </strong> Bobs hopes his sports bar will shake up the scene in his local town and provide sports fan with real authentic food.</p>
+		<p><strong>Attitudes and Behaviors: </strong> Extremely involved in day to day operations of 22 local Bank of America branches.</p>
+		<p><strong>Frustrations and Needs: </strong>Bob is tasked with over seeing loans dept for his 22 branches which is always backlogged and overwhelmed because of limited staff.</p>
+		<p><strong>Goals: </strong>Bobs highest priority is to lighten his work load and contract out as much work as possible to keep overhead down and ofc his bonus up which is dependant on overhead.</p>
+		<p><strong>User Story: </strong> Bob needs to find dependable analyst who will deliver on deadline. </p>
 		<H3>USE CASE</H3>
-		<p>Bob was at his local bank in hopes of being financed for a loan to start his business. However he did not meet the criteria that the bank requires for said loan.</p>
+		<p>Bob was at his one of his branches and found that the agent in charge of loans at that branch was 3-4 apps behind.</p>
 		<p>So Bob called a friend of his who mentioned knowing someone who helps start up businesses get loans. Bob calls his friend but his friend was unable to find the business card. Fortunately Bob's friend remembered the website BottomLineAnalyticsUS.com and Bob was able to easily view the sites contact page on his phone.</p>
 		<p>Once Bob got home he visited the website again and called the number listed on BottomLineAnalyticsUS.com's contact page and set up a meeting with the owner Myra Jordan.</p>
-		<p>Bob met with Myra and after paying her fee she went over all of his financicals with him. Bob was then able to get his loan and make his dream of being the owner of his own sports bar a reality.</p>
+		<p>Bob met with Myra they agreed on a price and he began sending her contracts to complete for him.</p>
 		<p>Myra's awesome brother-in-law who set up the website got a cut of her fee. YAAAAAAAAAY</p>
 	</body>
 </html>
