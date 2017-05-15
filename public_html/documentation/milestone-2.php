@@ -21,5 +21,9 @@
 		<p>
 			<strong>Contact: </strong>Myra Jordan, CRC, 505-440-8068, email mjordanbottomlineanalytics@gmail.com
 		</p>
+		<h1>Desktop Wire Frame</h1>
+		<p><img src="images/BottomlineAnalyticsDesktop.png" alt="Bottomline Analytics Desktop Wire Frame"></p>
+		<h1>Mobile Wire Frames</h1>
+		<p><img src="images/BottomlineAnalyticsMobile.png" alt="Bottomline Analytics Mobile Wire Frame"></p>
 	</body>
 </html>
