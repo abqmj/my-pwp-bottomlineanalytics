@@ -14,9 +14,7 @@ Great job on milestone1. you perfectly laid out the goal, purpose, and audience 
 Overall you did an excellent job on milestone 2α! Your wireframes are simple, and have a nice flow to them. You seem to have a clear understanding of what your 'client' wants, and that's extremely important when developing. 
 
 One thing that immediately stood out to me, as well as the [W3 Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbootcamp-coders.cnm.edu%2F~mjordan30%2Fmy-pwp-bottomlineanalytics%2Fpublic_html%2Fdocumentation%2Fmilestone-2.php) was the meta tag for viewport. You included the following tag:
-<meta name="viewport" 
-  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">,
-and I believe that's an autocomplete from Emmet in PHPStorm. Unfortunately, the user-scalable=no attribute does not allow the user to zoom in or out on the page, and by setting the max and min scale you're effectively taking all control away from your end users from a visual standpoint. After speaking to Rochelle and George about this, we agreed that the user-scalable, maximum-scale and minimum-scale attributes should all be removed.
+meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0", and I believe that's an autocomplete from Emmet in PHPStorm. Unfortunately, the user-scalable=no attribute does not allow the user to zoom in or out on the page, and by setting the max and min scale you're effectively taking all control away from your end users from a visual standpoint. After speaking to Rochelle and George about this, we agreed that the user-scalable, maximum-scale and minimum-scale attributes should all be removed.
 
 I also noticed that you do not really have any photos designated within your wireframes. Is that intentional, or something to be added later? It's a personal preference, and you should always go with what your clients want, however, I find that a few good photos help break up a wall of text. Well divided sections also help break up the text nicely, so again, it's a personal preference.
 
