@@ -7,9 +7,9 @@ This is a site for my Sister in law's business Bottom Line Analytics. She provid
 
 Great job on milestone1. you perfectly laid out the goal, purpose, and audience for the project. The persona was well written and helped me gain an understanding of what type of people will be interacting with the site. The use case perfectly lays out how users will be interacting with your site. The HTML is also perfect and so is your directory structure.
 
-### grade Tier IV https://bootcamp-coders.cnm.edu/projects/personal/rubric/
+grade Tier IV https://bootcamp-coders.cnm.edu/projects/personal/rubric/
 
-# Milestone 2α Feedback
+## Milestone 2α Feedback
 
 Overall you did an excellent job on milestone 2α! Your wireframes are simple, and have a nice flow to them. You seem to have a clear understanding of what your 'client' wants, and that's extremely important when developing. 
 
@@ -22,4 +22,4 @@ Rochelle also pointed out that on your mobile wireframes you have a nav toggle a
 
 I saw that Myra wanted a page dedicated to an amortization schedule among other 'tools', and was curious if you're going to include all of this on the home page, or if there will be multiple pages. If you're going to create more than one page I would recommend creating a wireframe for each additional page.
 
-### grade Tier IV - Great job! https://bootcamp-coders.cnm.edu/projects/personal/rubric/
+grade Tier IV - Great job! https://bootcamp-coders.cnm.edu/projects/personal/rubric/
