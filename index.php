@@ -52,9 +52,12 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="https://github.com/rlewis2892/bootstrap-challenge-demo" target="_blank">Home</a></li>
-								<li><a href="https://bootcamp-coders.cnm.edu/~rlewis37" target="_blank">RL Deployment</a></li>
-								<li><a href="https://angular.io/" target="_blank">Angular.io</a></li>
+								<li><a href="#home" target="_blank">Home</a></li>
+								<li><a href="#AboutMe" target="_blank">About Me</a></li>
+								<li><a href="#Portfolio" target="_blank">Portfolio</a></li>
+								<li><a href="#Services" target="_blank">Services</a></li>
+								<li><a href="#Testimonials" target="_blank">Testimonials</a></li>
+								<li><a href="#Contact" target="_blank">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
@@ -67,7 +70,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="jumbotron text-center">
-								<h1><img src="images\BottomlineAnalyticsLogo.jpg" alt="Bottomline Analytics"></h1>
+								<h1><img src="images/BottomlineAnalyticsLogo.jpg" alt="Bottomline Analytics"></h1>
 							</div>
 						</div>
 					</div>
