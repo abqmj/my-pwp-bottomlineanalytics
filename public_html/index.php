@@ -83,6 +83,15 @@
 			</div>
 				</div>
 			</div>
+			<div class="bg-2 text-center">
+				<div class="container-fluid">
+					<!--Portfolio -->
+					<h1>Portfolio</h1>
+					<div class="Portfolio">
+						<p class="portfolioText"> I want the website to include a "home page" and a tools page with an amortization schedule, 5 C's of Credit explanation and a Credit Dictionalry (I have all these), and a Sources page with links to SBA, Accion, BLA, GAAR, CBRE. But do whatever you want, really.</p>
+					</div>
+				</div>
+			</div>
 			<footer class="bg-info text-center">
 			<div class="container">
 				<div class="row">
