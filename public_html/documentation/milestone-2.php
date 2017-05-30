@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<p>
-			<strong>Welcome: </strong> Hi my name is Myra Jordan I provide independent written reviews of loan requests which includes a summary assessment of the 5 C's of credit, decision recommendations, observed strengths and weaknesses, and recommended conditions of funding should the client choose to approve the loan.
+			<strong>Welcome: </strong> Bottomline Analytics provides independent written reviews of loan requests which includes a summary assessment of the 5 C's of credit, decision recommendations, observed strengths and weaknesses, and recommended conditions of funding should the client choose to approve the loan.
 		</p>
 		<p>
 			<strong>About Me: </strong>Bottom Line Analytics provides commercial credit underwriting services to commercial finance organizations across the US, specializing in Commercial Real Estate Investment, Construction and C&I analysis.
