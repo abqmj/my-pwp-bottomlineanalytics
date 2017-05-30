@@ -79,7 +79,7 @@
 			<!--About Me -->
 			<h1>About Bottomline Analytics</h1>
 			<div class="aboutMe">
-				<p class="aboutMeText">Bottom Line Analytics provides commercial credit underwriting services to commercial finance organizations across the US, specializing in Commercial Real Estate Investment, Construction and C&I analysis. Myra Jordan, CRC, Founder, has been in the banking and micro-finance industries for nearly 10 years. She understands that each organization has it's own risk tolerance, and uses her expertise to assess the 5 C's of credit and determine if the loan facility is within an organizations risk tolerance.</p>
+				<p class="aboutMeText">Bottomline Analytics provides commercial credit underwriting services to commercial finance organizations across the US, specializing in Commercial Real Estate Investment, Construction and C&I analysis. Myra Jordan, CRC, Founder, has been in the banking and micro-finance industries for nearly 10 years. She understands that each organization has it's own risk tolerance, and uses her expertise to assess the 5 C's of credit and determine if the loan facility is within an organizations risk tolerance.</p>
 			</div>
 				</div>
 			</div>
@@ -89,6 +89,15 @@
 					<h1>Portfolio</h1>
 					<div class="Portfolio">
 						<p class="portfolioText">5 C's of Credit explanation and a Credit Dictionalry (I have all these), and a Sources page with links to SBA, Accion, BLA, GAAR, CBRE. HI ROCHELLE I'm gonna sit down with myra asap and go over what she actually wants here.</p>
+					</div>
+				</div>
+			</div>
+			<div class="bg-2 text-center">
+				<div class="container-fluid">
+					<!--Services -->
+					<h1>Services</h1>
+					<div class="Services">
+						<p class="servicesText">Bottomline Analytics provides commercial credit underwriting services to commercial finance organizations across the US, specializing in Commercial Real Estate Investment, Construction and C&I analysis. Myra Jordan, CRC, Founder, has been in the banking and micro-finance industries for nearly 10 years. She understands that each organization has it's own risk tolerance, and uses her expertise to assess the 5 C's of credit and determine if the loan facility is within an organizations risk tolerance.</p>
 					</div>
 				</div>
 			</div>
