@@ -15,7 +15,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 		<!-- My Custom CSS -->
-		<link rel="stylesheet" href="../css/style.css" type="text/css">
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -69,10 +69,9 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<div class="jumbotron text-center">
-								<h1><img src="images/BottomlineAnalyticsLogo.jpg" alt="Bottomline Analytics"></h1>
+							<div class="col-md-12 img-header">
 							</div>
-						</div>
+							</div>
 					</div>
 				</div>
 			</section>

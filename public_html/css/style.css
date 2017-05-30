@@ -16,3 +16,8 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+.col-md-12.img-header {
+	height: 300px;
+	background: url(images/BottomlineAnalyticsLogo.jpg) no-repeat center;
+	background-size: cover;
+}
