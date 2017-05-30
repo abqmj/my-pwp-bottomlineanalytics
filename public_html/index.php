@@ -68,8 +68,9 @@
 			<section>
 				<div class="container">
 					<div class="row">
-							<div class="col-md-12 img-header">
-							</div>
+						<div id="logo-base">
+							<img src="images/BottomlineAnalyticsLogo.jpg" />
+						</div>
 					</div>
 				</div>
 			</section>
