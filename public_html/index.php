@@ -64,7 +64,7 @@
 				</nav>
 			</header>
 
-			<!-- Welcome Section -->
+			<!-- Home -->
 			<section>
 				<div class="container">
 					<div class="row">
