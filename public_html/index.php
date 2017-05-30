@@ -69,7 +69,7 @@
 				<div class="container">
 					<div class="row">
 						<div id="logo-base">
-							<img src="images/BottomlineAnalyticsLogo.jpg" />
+							<img src="images/BottomlineAnalyticsLogo.jpg" class="img-fluid" />
 						</div>
 					</div>
 				</div>
