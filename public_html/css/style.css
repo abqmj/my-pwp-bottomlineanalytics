@@ -40,3 +40,18 @@ width: 200px;
 	max-width:100%;
 	box-shadow: 7px 5px 10px black;
 }
+.aboutMe{
+	background-color: rgba(114,114,114,0.97);
+	width: 58%;
+	margin: 0 auto;
+	box-shadow: 7px 5px 10px black;
+}
+
+@media screen and (max-width: 768px) {
+	.aboutMe {
+		background-color: rgba(114,114,114,0.97);
+		width: 95%;
+		margin: 0 auto;
+		box-shadow: 7px 5px 10px black;
+	}
+}
