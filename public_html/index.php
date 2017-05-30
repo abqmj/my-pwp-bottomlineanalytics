@@ -77,7 +77,7 @@
 			<!--About Me -->
 			<h1>About Bottomline Analytics</h1>
 			<div class="aboutMe">
-				<p>Bottom Line Analytics provides commercial credit underwriting services to commercial finance organizations across the US, specializing in Commercial Real Estate Investment, Construction and C&I analysis. Myra Jordan, CRC, Founder, has been in the banking and micro-finance industries for nearly 10 years. She understands that each organization has it's own risk tolerance, and uses her expertise to assess the 5 C's of credit and determine if the loan facility is within an organizations risk tolerance.</p>
+				<p class="aboutMeText">Bottom Line Analytics provides commercial credit underwriting services to commercial finance organizations across the US, specializing in Commercial Real Estate Investment, Construction and C&I analysis. Myra Jordan, CRC, Founder, has been in the banking and micro-finance industries for nearly 10 years. She understands that each organization has it's own risk tolerance, and uses her expertise to assess the 5 C's of credit and determine if the loan facility is within an organizations risk tolerance.</p>
 			</div>
 			<footer class="bg-info text-center">
 			<div class="container">
