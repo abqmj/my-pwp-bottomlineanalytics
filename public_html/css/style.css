@@ -55,3 +55,11 @@ width: 200px;
 		box-shadow: 7px 5px 10px black;
 	}
 }
+.aboutMeText{
+	width: 90%;
+	margin: 0 auto;
+	color: #ffffff;
+	text-align: justify;
+	padding: 20px;
+	text-shadow: 1px 1px 1px black;
+}
