@@ -63,3 +63,25 @@ width: 200px;
 	padding: 20px;
 	text-shadow: 1px 1px 1px black;
 }
+.Portfolio{
+	background-color: rgba(114,114,114,0.97);
+	width: 58%;
+	margin: 0 auto;
+	box-shadow: 7px 5px 10px black;
+}
+
+@media screen and (max-width: 768px) {
+	.Portfolio {
+		background-color: rgba(114,114,114,0.97);
+		width: 95%;
+		margin: 0 auto;
+		box-shadow: 7px 5px 10px black;
+	}
+}
+.portfolioText{
+	width: 90%;
+	margin: 0 auto;
+	color: #ffffff;
+	text-align: justify;
+	padding: 20px;
+	text-shadow: 1px 1px 1px black;
