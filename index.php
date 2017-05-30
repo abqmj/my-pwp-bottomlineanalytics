@@ -67,8 +67,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="jumbotron text-center">
-								<h1><img src="images\Untitled-1.jpg" alt="Bottomline Analytics" ></h1>
-								<p>La croix chambray organic ugh, plaid raw denim pok pok umami gastropub neutra deep v paleo jianbing semiotics cray.</p>
+								<h1><img src="images\BottomlineAnalyticsLogo.jpg" alt="Bottomline Analytics"></h1>
 							</div>
 						</div>
 					</div>
