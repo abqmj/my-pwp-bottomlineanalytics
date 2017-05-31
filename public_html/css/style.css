@@ -16,6 +16,13 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+.navbar-default {
+	background: #000000; /* Old Browsers */
+	background: -webkit-linear-gradient(top left,#000000,#fefefe); /*Safari 5.1-6*/
+	background: -o-linear-gradient(top left,#000000,#fefefe); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(top left,#000000,#fefefe); /*Fx 3.6-15*/
+	background: linear-gradient(top left, #000000, #fefefe); /*Standard*/
+}
 /**
 .col-md-12.img-header {
 	height: 300px;
