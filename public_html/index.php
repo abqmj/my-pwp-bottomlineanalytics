@@ -52,12 +52,12 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="#home" target="_blank">Home</a></li>
-								<li><a href="#AboutMe" target="_blank">About Me</a></li>
-								<li><a href="#Portfolio" target="_blank">Portfolio</a></li>
-								<li><a href="#Services" target="_blank">Services</a></li>
-								<li><a href="#Testimonials" target="_blank">Testimonials</a></li>
-								<li><a href="#Contact" target="_blank">Contact</a></li>
+								<li><a href="#home">Home</a></li>
+								<li><a href="#AboutMe">About Me</a></li>
+								<li><a href="#Portfolio">Portfolio</a></li>
+								<li><a href="#Services">Services</a></li>
+								<li><a href="#Testimonials">Testimonials</a></li>
+								<li><a href="#Contact">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
