@@ -24,13 +24,13 @@ body { width: 100%;}
 	background: linear-gradient(top left, #2d2d2d, #7d7d7d); /*Standard*/
 }
 .navbar-brand {
-	color: #89ff0e;
+	color: #ffffff;
 	text-align: justify;
 	padding: 20px;
 	text-shadow: 1px 1px 1px black;
 }
 .navbar-right {
-	color: #c7ff08;
+	color: #ffffff;
 	text-align: justify;
 	padding: 20px;
 	text-shadow: 1px 1px 1px black;
