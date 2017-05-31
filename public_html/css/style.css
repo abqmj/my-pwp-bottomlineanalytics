@@ -23,13 +23,13 @@ body { width: 100%;}
 	background: -moz-linear-gradient(top left,#000000,#ffffff); /*Fx 3.6-15*/
 	background: linear-gradient(top left, #000000, #ffffff); /*Standard*/
 }
-.navbar-brand {
+#navbar-brandText {
 	color: #ffffff;
 	text-align: justify;
 	padding: 20px;
 	text-shadow: 1px 1px 1px black;
 }
-ul>.nav {
+.nav>li {
 	color: #ffffff;
 	text-align: justify;
 	padding: 20px;

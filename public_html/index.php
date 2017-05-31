@@ -46,7 +46,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#">Bottom Line Analytics</a>
+							<a id="navbar-brandText" class="navbar-brand" href="#">Bottom Line Analytics</a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
