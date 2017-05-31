@@ -26,13 +26,13 @@ body { width: 100%;}
 #navbar-brandText {
 	color: #ffffff;
 	text-align: justify;
-	padding: 20px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-shadow: 1px 1px 1px black;
 }
-.nav>li {
+#nav-ul {
 	color: #ffffff;
 	text-align: justify;
-	padding: 20px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-shadow: 1px 1px 1px black;
 }
 /**
