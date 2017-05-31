@@ -25,6 +25,9 @@ body { width: 100%;}
 }
 .navbar-brand {
 	color: #ffffff;
+	text-align: justify;
+	padding: 20px;
+	text-shadow: 1px 1px 1px black;
 }
 /**
 .col-md-12.img-header {
