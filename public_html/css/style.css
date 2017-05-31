@@ -29,6 +29,12 @@ body { width: 100%;}
 	padding: 20px;
 	text-shadow: 1px 1px 1px black;
 }
+.navbar-right {
+	color: #ffffff;
+	text-align: justify;
+	padding: 20px;
+	text-shadow: 1px 1px 1px black;
+}
 /**
 .col-md-12.img-header {
 	height: 300px;
