@@ -23,6 +23,9 @@ body { width: 100%;}
 	background: -moz-linear-gradient(top left,#000000,#fefefe); /*Fx 3.6-15*/
 	background: linear-gradient(top left, #000000, #fefefe); /*Standard*/
 }
+.navbar-brand {
+	color: #ffffff;
+}
 /**
 .col-md-12.img-header {
 	height: 300px;
