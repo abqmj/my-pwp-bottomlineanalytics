@@ -23,3 +23,6 @@ Rochelle also pointed out that on your mobile wireframes you have a nav toggle a
 I saw that Myra wanted a page dedicated to an amortization schedule among other 'tools', and was curious if you're going to include all of this on the home page, or if there will be multiple pages. If you're going to create more than one page I would recommend creating a wireframe for each additional page.
 
 grade Tier IV - Great job! https://bootcamp-coders.cnm.edu/projects/personal/rubric/
+
+## Milestone 2b Feedback
+Nice work on the updates. Get the content and contact form in, and you'll nearly complete. Your Milestone 2b passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
