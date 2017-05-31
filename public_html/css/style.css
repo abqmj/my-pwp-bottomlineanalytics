@@ -18,10 +18,10 @@ body { width: 100%;}
 }
 .navbar-default {
 	background: #000000; /* Old Browsers */
-	background: -webkit-linear-gradient(top left,#000000, #7d7d7d); /*Safari 5.1-6*/
-	background: -o-linear-gradient(top left,#000000,#7d7d7d); /*Opera 11.1-12*/
-	background: -moz-linear-gradient(top left,#000000,#7d7d7d); /*Fx 3.6-15*/
-	background: linear-gradient(top left, #000000, #7d7d7d); /*Standard*/
+	background: -webkit-linear-gradient(top left,#000000, #ffffff); /*Safari 5.1-6*/
+	background: -o-linear-gradient(top left,#000000,#ffffff); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(top left,#000000,#ffffff); /*Fx 3.6-15*/
+	background: linear-gradient(top left, #000000, #ffffff); /*Standard*/
 }
 .navbar-brand {
 	color: #ffffff;
