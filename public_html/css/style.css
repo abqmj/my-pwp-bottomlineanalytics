@@ -30,7 +30,7 @@ body { width: 100%;}
 	text-shadow: 1px 1px 1px black;
 }
 .li {
-	color: #ffffff;
+	background-color: #ffffff;
 	text-align: justify;
 	padding: 20px;
 	text-shadow: 1px 1px 1px black;
