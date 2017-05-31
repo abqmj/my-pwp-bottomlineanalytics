@@ -61,7 +61,7 @@ width: 200px;
 }
 .aboutMe{
 	background-color: #000000;
-	max-width: 58%;
+	width: 58%;
 	margin: 0 auto;
 	box-shadow: 7px 5px 10px black;
 }
