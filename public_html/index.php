@@ -57,7 +57,7 @@
 								<li><a id="nav-ul" href="#Portfolio">Portfolio</a></li>
 								<li><a id="nav-ul" href="#Services">Services</a></li>
 								<li><a id="nav-ul" href="#Testimonials">Testimonials</a></li>
-								<li><a id="nav-ul" href="#Contact">Contact</a></li>
+								<li><a id="nav-ul" href="#ContactForm">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
@@ -67,7 +67,7 @@
 			<!-- Home -->
 			<section>
 				<div class="container">
-					<div class="row">
+					<div id="Home" class="row">
 						<div id="logo-base">
 							<img src="images/BottomlineAnalyticsLogo.jpg"/>
 						</div>
@@ -77,16 +77,16 @@
 			<div class="bg-2 text-center">
 				<div class="container-fluid">
 			<!--About Me -->
-			<h1>About Bottomline Analytics</h1>
+			<h1 id="AboutMe">About Bottomline Analytics</h1>
 			<div class="aboutMe">
-				<p class="aboutMeText">Bottomline Analytics provides commercial credit underwriting services to commercial finance organizations across the US, specializing in Commercial Real Estate Investment, Construction and C&I analysis. Myra Jordan, CRC, Founder, has been in the banking and micro-finance industries for nearly 10 years. She understands that each organization has it's own risk tolerance, and uses her expertise to assess the 5 C's of credit and determine if the loan facility is within an organizations risk tolerance.</p>
+				<p class="aboutMeText">Bottomline Analytics provides commercial credit underwriting services to commercial finance organizations across the US. Myra Jordan, CRC, Founder, has been in the banking and micro-finance industries for nearly 10 years. She understands that each organization has it's own risk tolerance, and uses her expertise to assess the 5 C's of credit and determine if the loan facility is within an organizations risk tolerance.</p>
 			</div>
 				</div>
 			</div>
 			<div class="bg-2 text-center">
 				<div class="container-fluid">
 					<!--Portfolio -->
-					<h1>Portfolio</h1>
+					<h1 id="Portfolio">Portfolio</h1>
 					<div class="Portfolio">
 						<p class="portfolioText">5 C's of Credit explanation and a Credit Dictionalry (I have all these), and a Sources page with links to SBA, Accion, BLA, GAAR, CBRE. HI ROCHELLE I'm gonna sit down with myra asap and go over what she actually wants here.</p>
 					</div>
@@ -95,17 +95,117 @@
 			<div class="bg-2 text-center">
 				<div class="container-fluid">
 					<!--Services -->
-					<h1>Services</h1>
+					<h1 id="Services">Services</h1>
 					<div class="Services">
-						<p class="servicesText">Bottomline Analytics provides commercial credit underwriting services to commercial finance organizations across the US, specializing in Commercial Real Estate Investment, Construction and C&I analysis. Myra Jordan, CRC, Founder, has been in the banking and micro-finance industries for nearly 10 years. She understands that each organization has it's own risk tolerance, and uses her expertise to assess the 5 C's of credit and determine if the loan facility is within an organizations risk tolerance.</p>
+						<p class="servicesText">Small business underwriting, including RE Investment, Construction and C&I analysis.
+							Small business underwriting/lending trainings and consulting including Underwriting best practices, development of risk tolerance and Underwriting policies.  </p>
 					</div>
 				</div>
 			</div>
-			<footer class="bg-info text-center">
+			<!-- Testimonials -->
+			<section>
+				<div class="bg-2 text-center">
+				<h1 id="Testimonials">Testimonials</h1>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 text-center">
+
+							<!-- Profile Pic-->
+
+
+							<!-- Testimonials -->
+							<div class="panel panel-default">
+								<div class="panel-body">
+									<p id="panel-bodyText">Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.</p>
+								</div>
+							</div>
+						</div><!--/.col-md-3 -->
+						<!-- Testimonials -->
+						<section>
+							<div class="container">
+								<div class="row">
+									<div class="col-md-3 text-center">
+										<!-- Profile Pic-->
+
+										<!-- Testimonials -->
+										<div class="panel panel-default">
+											<div class="panel-body">
+												<p id="panel-bodyText">Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.</p>
+											</div>
+										</div>
+									</div><!--/.col-md-3 -->
+									<!-- Testimonials -->
+									<section>
+										<div class="container">
+											<div class="row">
+												<div class="col-md-3 text-center">
+													<!-- Profile Pic-->
+
+													<!-- Testimonials -->
+													<div class="panel panel-default">
+														<div class="panel-body">
+															<p id="panel-bodyText">Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.</p>
+														</div>
+													</div>
+												</div><!--/.col-md-3 -->
+												<!-- Testimonials -->
+												<section>
+													<div class="container">
+														<div class="row">
+															<div class="col-md-3 text-center">
+																<!-- Profile Pic-->
+
+																<!-- Testimonials -->
+																<div class="panel panel-default">
+																	<div class="panel-body">
+																		<p id="panel-bodyText">Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.</p>
+																	</div>
+																</div>
+															</div><!--/.col-md-3 -->
+			<div id="ContactForm" class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-6">
+					<form id="contact-form" action="php/mailer.php" method="post">
+
+						<div class="form-group">
+							<label for="contact_name">Name</label>
+							<input class="form-control" type="text" id="contact_name" name="contact_name" placeholder="your name...">
+						</div>
+
+						<div class="form-group">
+							<label for="contact_email">Email</label>
+							<input class="form-control" type="email" id="contact_email" name="contact_email" placeholder="your email...">
+						</div>
+
+						<div class="form-group">
+							<label for="contact_subject">Subject</label>
+							<input class="form-control" type="text" id="contact_subject" name="contact_subject" placeholder="subject...">
+						</div>
+
+						<div class="form-group">
+							<label for="contact_message">Message</label>
+							<textarea class="form-control" name="contact_message" id="contact_message" cols="30" rows="10" placeholder="your message goes here..."></textarea>
+						</div>
+
+						<!--	Google reCAPTCHA -->
+						<div class="g-recaptcha" data-sitekey="6LcpdBcUAAAAAMRMZDc-7pGMwurb3FpwpsL6FhYc"></div>
+
+						<button class="btn color-submit">Send!</button>
+					</form>
+				</div>
+			</div>
+
+			<!--empty area for form error/success output-->
+			<div class="row">
+				<div class="col-xs-12">
+					<div id="output-area"></div>
+				</div>
+			</div>
+			<footer id="bottomfooter" class="bg-info text-center">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4 col-md-offset-4">
-						footer text
+					<div id="bottomfooterText" class="col-md-4 col-md-offset-4">
+						Bottomline Analytics Myra Jordan, CRC, 505-440-8068
 					</div>
 				</div>
 			</div>
