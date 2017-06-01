@@ -167,6 +167,12 @@ width: 200px;
 	width:15rem;
 	height: 100%;
 }
+#headers-ContactForm{
+	color: #ffffff;
+	text-align: center;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-shadow: 3px 3px 3px black;
+}
 .form-horizontal {
 	background: #000000; /* Old Browsers */
 	background: -webkit-linear-gradient(top left,#000000, #ffffff); /*Safari 5.1-6*/
