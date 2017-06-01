@@ -52,11 +52,11 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a id="nav-ul" href="#Home">Home</a></li>
-								<li><a id="nav-ul" href="#AboutMe">About Me</a></li>
-								<li><a id="nav-ul" href="#Portfolio">Portfolio</a></li>
-								<li><a id="nav-ul" href="#Services">Services</a></li>
-								<li><a id="nav-ul" href="#Testimonials">Testimonials</a></li>
+								<li><a id="nav-ul" href="#headers-Home">Home</a></li>
+								<li><a id="nav-ul" href="#headers-AboutMe">About Me</a></li>
+								<li><a id="nav-ul" href="#headers-Portfolio">Portfolio</a></li>
+								<li><a id="nav-ul" href="#headers-Services">Services</a></li>
+								<li><a id="nav-ul" href="#headers-Testimonials">Testimonials</a></li>
 								<li><a id="nav-ul" href="#ContactForm">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
@@ -67,7 +67,7 @@
 			<!-- Home -->
 			<section>
 				<div class="container">
-					<div id="Home" class="row">
+					<div id="headers-Home" class="row">
 						<div id="logo-base">
 							<img src="images/BottomlineAnalyticsLogo.jpg"/>
 						</div>
@@ -77,7 +77,7 @@
 			<div class="bg-2 text-center">
 				<div class="container-fluid">
 			<!--About Me -->
-			<h1 id="AboutMe">About Bottomline Analytics</h1>
+			<h1 id="headers-AboutMe">About Bottomline Analytics</h1>
 			<div class="aboutMe">
 				<p class="aboutMeText">Bottomline Analytics provides commercial credit underwriting services to commercial finance organizations across the US. Myra Jordan, CRC, Founder, has been in the banking and micro-finance industries for nearly 10 years. She understands that each organization has it's own risk tolerance, and uses her expertise to assess the 5 C's of credit and determine if the loan facility is within an organizations risk tolerance.</p>
 			</div>
@@ -86,7 +86,7 @@
 			<div class="bg-2 text-center">
 				<div class="container-fluid">
 					<!--Portfolio -->
-					<h1 id="Portfolio">Portfolio</h1>
+					<h1 id="headers-Portfolio">Portfolio</h1>
 					<div class="Portfolio">
 						<p class="portfolioText">5 C's of Credit explanation and a Credit Dictionalry (I have all these), and a Sources page with links to SBA, Accion, BLA, GAAR, CBRE. HI ROCHELLE I'm gonna sit down with myra asap and go over what she actually wants here.</p>
 					</div>
@@ -95,7 +95,7 @@
 			<div class="bg-2 text-center">
 				<div class="container-fluid">
 					<!--Services -->
-					<h1 id="Services">Services</h1>
+					<h1 id="headers-Services">Services</h1>
 					<div class="Services">
 						<p class="servicesText">Small business underwriting, including RE Investment, Construction and C&I analysis.
 							Small business underwriting/lending trainings and consulting including Underwriting best practices, development of risk tolerance and Underwriting policies.  </p>
@@ -105,14 +105,13 @@
 			<!-- Testimonials -->
 			<section>
 				<div class="bg-2 text-center">
-				<h1 id="Testimonials">Testimonials</h1>
+				<h1 id="headers-Testimonials">Testimonials</h1>
 				<div class="container">
 					<div class="row">
 						<div class="col-md-3 text-center">
 
 							<!-- Profile Pic-->
-
-
+									<img src="images/bobross.jpg" alt="doge" class="img-circle" id="myPhoto">
 							<!-- Testimonials -->
 							<div class="panel panel-default">
 								<div class="panel-body">
@@ -126,7 +125,7 @@
 								<div class="row">
 									<div class="col-md-3 text-center">
 										<!-- Profile Pic-->
-
+										<img src="images/bobross.jpg" alt="doge" class="img-circle" id="myPhoto">
 										<!-- Testimonials -->
 										<div class="panel panel-default">
 											<div class="panel-body">
@@ -140,7 +139,7 @@
 											<div class="row">
 												<div class="col-md-3 text-center">
 													<!-- Profile Pic-->
-
+													<img src="images/bobross.jpg" alt="doge" class="img-circle" id="myPhoto">
 													<!-- Testimonials -->
 													<div class="panel panel-default">
 														<div class="panel-body">
@@ -154,7 +153,7 @@
 														<div class="row">
 															<div class="col-md-3 text-center">
 																<!-- Profile Pic-->
-
+																<img src="images/bobross.jpg" alt="doge" class="img-circle" id="myPhoto">
 																<!-- Testimonials -->
 																<div class="panel panel-default">
 																	<div class="panel-body">
@@ -162,40 +161,52 @@
 																	</div>
 																</div>
 															</div><!--/.col-md-3 -->
-			<div id="ContactForm" class="row">
-				<div class="col-md-3"></div>
-				<div class="col-md-6">
-					<form id="contact-form" action="php/mailer.php" method="post">
-
-						<div class="form-group">
-							<label for="contact_name">Name</label>
-							<input class="form-control" type="text" id="contact_name" name="contact_name" placeholder="your name...">
-						</div>
-
-						<div class="form-group">
-							<label for="contact_email">Email</label>
-							<input class="form-control" type="email" id="contact_email" name="contact_email" placeholder="your email...">
-						</div>
-
-						<div class="form-group">
-							<label for="contact_subject">Subject</label>
-							<input class="form-control" type="text" id="contact_subject" name="contact_subject" placeholder="subject...">
-						</div>
-
-						<div class="form-group">
-							<label for="contact_message">Message</label>
-							<textarea class="form-control" name="contact_message" id="contact_message" cols="30" rows="10" placeholder="your message goes here..."></textarea>
-						</div>
-
-						<!--	Google reCAPTCHA -->
-						<div class="g-recaptcha" data-sitekey="6LcpdBcUAAAAAMRMZDc-7pGMwurb3FpwpsL6FhYc"></div>
-
-						<button class="btn color-submit">Send!</button>
-					</form>
-				</div>
-			</div>
-
-			<!--empty area for form error/success output-->
+															<!-- contact form -->
+															<div id="ContactForm" class="row">
+																<div class="col-md-6"></div>
+																<div class="col-md-12 center-block">
+																	<form class="form-horizontal well" action="email.php">
+																		<div class="form-group">
+																			<label for="name">Name</label>
+																			<div class="input-group">
+																				<div class="input-group-addon">
+																					<i class="fa fa-user" aria-hidden="true"></i>
+																				</div>
+																				<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+																			</div>
+																		</div>
+																		<div class="form-group">
+																			<label for="email">Email address</label>
+																			<div class="input-group">
+																				<div class="input-group-addon">
+																					<i class="fa fa-envelope" aria-hidden="true"></i>
+																				</div>
+																				<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+																			</div>
+																		</div>
+																		<div class="form-group">
+																			<label for="subject">Subject</label>
+																			<div class="input-group">
+																				<div class="input-group-addon">
+																					<i class="fa fa-pencil" aria-hidden="true"></i>
+																				</div>
+																				<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+																			</div>
+																		</div>
+																		<div class="form-group">
+																			<label for="message">Message</label>
+																			<div class="input-group">
+																				<div class="input-group-addon">
+																					<i class="fa fa-comment" aria-hidden="true"></i>
+																				</div>
+																				<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
+																			</div>
+																		</div>
+																		<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+																		<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+																	</form>
+																</div>
+															</div>
 			<div class="row">
 				<div class="col-xs-12">
 					<div id="output-area"></div>
