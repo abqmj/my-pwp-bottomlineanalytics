@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^bottomlineanalyticsus.com$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.bottomlineanalyticsus.com$
+
+# RewriteCond %{HTTP_HOST} ^bottomlineanalyticsus.mjcodes.com/$ [NC,OR]
+# RewriteCond %{HTTP_HOST} ^www.bottomlineanalyticsus.mjcodes.com/$
+
+RewriteCond %{REQUEST_URI} !public_html/
+RewriteRule (.*) /public_html/$1 [L]

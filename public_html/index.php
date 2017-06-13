@@ -66,12 +66,12 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="main-menu">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a id="nav-ul" href="#headers-Home">Home</a></li>
-								<li><a id="nav-ul" href="#headers-AboutMe">About Me</a></li>
-								<li><a id="nav-ul" href="#headers-Portfolio">Portfolio</a></li>
-								<li><a id="nav-ul" href="#headers-Services">Services</a></li>
-								<li><a id="nav-ul" href="#headers-Testimonials">Testimonials</a></li>
-								<li><a id="nav-ul" href="#headers-ContactForm">Contact</a></li>
+								<li><a id="nav-ul" href="#Home">Home</a></li>
+								<li><a id="nav-ul" href="#AboutMe">About Me</a></li>
+								<li><a id="nav-ul" href="#Portfolio">Portfolio</a></li>
+								<li><a id="nav-ul" href="#Services">Services</a></li>
+								<li><a id="nav-ul" href="#Testimonials">Testimonials</a></li>
+								<li><a id="nav-ul" href="#contact-form">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
@@ -81,7 +81,7 @@
 			<!-- Home -->
 			<section>
 				<div class="container">
-					<div id="headers-Home" class="row">
+					<div id="Home" class="row">
 						<div id="logo-base">
 							<img src="images/BottomlineAnalyticsLogo.jpg"/>
 						</div>
@@ -91,7 +91,7 @@
 			<div class="bg-2 text-center">
 				<div class="container-fluid">
 					<!--About Me -->
-					<h1 id="headers-AboutMe">About Bottomline Analytics</h1>
+					<h1 id="AboutMe">About Bottomline Analytics</h1>
 					<div class="aboutMe">
 						<p class="aboutMeText">Bottomline Analytics provides commercial credit underwriting services to
 							commercial finance organizations across the US. Myra Jordan, CRC, Founder, has been in the banking
@@ -104,7 +104,7 @@
 			<div class="bg-2 text-center">
 				<div class="container-fluid">
 					<!--Portfolio -->
-					<h1 id="headers-Portfolio">Portfolio</h1>
+					<h1 id="Portfolio">Portfolio</h1>
 					<div class="Portfolio">
 						<p class="portfolioText">5 C's of Credit explanation and a Credit Dictionalry (I have all these), and
 							a Sources page with links to SBA, Accion, BLA, GAAR, CBRE. HI ROCHELLE I'm gonna sit down with myra
@@ -115,7 +115,7 @@
 			<div class="bg-2 text-center">
 				<div class="container-fluid">
 					<!--Services -->
-					<h1 id="headers-Services">Services</h1>
+					<h1 id="Services">Services</h1>
 					<div class="Services">
 						<p class="servicesText">Small business underwriting, including RE Investment, Construction and C&I
 							analysis.
@@ -127,74 +127,20 @@
 			<!-- Testimonials -->
 			<section>
 				<div class="bg-2 text-center">
-					<h1 id="headers-Testimonials">Testimonials</h1>
+					<h1 id="Testimonials">Testimonials</h1>
 					<div class="container">
 						<div class="row">
-							<div class="col-md-3 text-center">
+							<div class="text-center">
 
 								<!-- Profile Pic-->
-								<img src="images/bobross.jpg" alt="doge" class="img-circle" id="myPhoto">
+								<img src="images/specialty-funding-logo.png" alt="http://specialty-funding.com/"  id="myPhoto">
 								<!-- Testimonials -->
 								<div class="panel panel-default">
 									<div class="panel-body">
-										<p id="panel-bodyText">Myra is amazing.Myra is amazing.Myra is amazing.Myra is
-											amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is
-											amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.</p>
+										<p id="panel-bodyText">As the President of Specialty Leasing Group / Specialty Funding I am pleased to recommend Myra Jordan. I’ve known Myra for several years and have followed her progression as an outstanding credit and financial analyst. My company has had the pleasure of using Myra’s services many times. We are always impressed with the results. Because SLG is primarily a small ticket lender, I find I just don’t have the expertise to review larger full financial packages sufficiently. That’s where Myra comes in. With her help we can correctly assess our risk. With a short write-up or conversation of the basics of the package, Myra always has an immediate grasp of what information is required from our client to make an informed decision. I have to admit without her review up front I would be going back multiple times asking for additional information. Myra clearly states the strengths and weaknesses of the credit and cash flow. She has shown time and again her expertise with some of the most complicated and complex accounting and business relationship structures. Her grasp of collateral valuation and risk scoring is a technique hard to find in any one person. SLG’s portfolio has shown a performance level that many in my industry struggle to achieve and I believe much of that is credited to Myra. </p>
 									</div>
 								</div>
-							</div><!--/.col-md-3 -->
-							<!-- Testimonials -->
-							<section>
-								<div class="container">
-									<div class="row">
-										<div class="col-md-3 text-center">
-											<!-- Profile Pic-->
-											<img src="images/bobross.jpg" alt="doge" class="img-circle" id="myPhoto">
-											<!-- Testimonials -->
-											<div class="panel panel-default">
-												<div class="panel-body">
-													<p id="panel-bodyText">Myra is amazing.Myra is amazing.Myra is amazing.Myra is
-														amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra
-														is amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is
-														amazing.</p>
-												</div>
-											</div>
-										</div><!--/.col-md-3 -->
-										<!-- Testimonials -->
-										<section>
-											<div class="container">
-												<div class="row">
-													<div class="col-md-3 text-center">
-														<!-- Profile Pic-->
-														<img src="images/bobross.jpg" alt="doge" class="img-circle" id="myPhoto">
-														<!-- Testimonials -->
-														<div class="panel panel-default">
-															<div class="panel-body">
-																<p id="panel-bodyText">Myra is amazing.Myra is amazing.Myra is
-																	amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is
-																	amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra is
-																	amazing.Myra is amazing.Myra is amazing.</p>
-															</div>
-														</div>
-													</div><!--/.col-md-3 -->
-													<!-- Testimonials -->
-													<section>
-														<div class="container">
-															<div class="row">
-																<div class="col-md-3 text-center">
-																	<!-- Profile Pic-->
-																	<img src="images/bobross.jpg" alt="doge" class="img-circle"
-																		  id="myPhoto">
-																	<!-- Testimonials -->
-																	<div class="panel panel-default">
-																		<div class="panel-body">
-																			<p id="panel-bodyText">Myra is amazing.Myra is amazing.Myra is
-																				amazing.Myra is amazing.Myra is amazing.Myra is amazing.Myra
-																				is amazing.Myra is amazing.Myra is amazing.Myra is
-																				amazing.Myra is amazing.Myra is amazing.Myra is amazing.</p>
-																		</div>
-																	</div>
-																</div><!--/.col-md-3 -->
+							</div><!--/.col-md-6 -->
 																<!-- BEGIN CONTACT FORM -->
 																<div class="row">
 																	<div class="col-md-6"></div>
