@@ -26,3 +26,25 @@ grade Tier IV - Great job! https://bootcamp-coders.cnm.edu/projects/personal/rub
 
 ## Milestone 2b Feedback
 Nice work on the updates. Get the content and contact form in, and you'll nearly complete. Your Milestone 2b passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
+
+## Milestone 3 / Final PWP Evaluation
+Congratulations on great work on PWP - this really came together well. Your code looks great, and your layout and design choices are thoughtful, consistent, and well implemented here. You layout is fully responsive, effective and attractive on mobile as well. Nice work.
+
+It looks like your contact form is wired up correctly from my end. Check the email and see if my test message was received ok.
+
+I see that you made some content changes after the due date/live rollout by reformatting the testimonials. Unfortunately I can't factor that change into your Tier score, but good move there. It's never a good thing to roll out a site live with placeholder content or dummy text. Even though I have much love for Bob Ross.
+
+Also nice work with handling the live deployment by using an add-on domain. 
+
+Your Milestone 3/Final Delivery for PWP passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+
+Your overall passing grade across all of your PWP Milestones is [34/40 points (85%)](https://bootcamp-coders.cnm.edu/projects/personal/rubric/#sample-score).
+
+- Milestone 1 - 20%: Tier IV 40(0.2) = 8
+- Milestone 2a - 20%: Tier IV 40(0.2) = 8
+- Milestone 2b - 10%: Tier III 30(0.1) = 3
+- Milestone 3 - 50%: Tier  III 30(0.5) = 15
+
+### Edits &amp; Suggestions
+- Don't forget to use the `alt` attribute on all &lt;img&gt; tags
+- I would consider formatting the form error code output closer up near the form itself.
